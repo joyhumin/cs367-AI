@@ -1,0 +1,8 @@
+# macOS Files
+.DS_Store
+
+# resource pdf files
+src/
+
+# assignment files for now
+assignments/
